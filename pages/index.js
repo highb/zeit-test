@@ -1,4 +1,4 @@
-import Layout from '../components/MyLayout';
+import Layout from '../components/myLayout.js';
 import Link from 'next/link';
 
 const PostLink = props => (
